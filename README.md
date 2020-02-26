@@ -1,0 +1,2 @@
+# Bidkart
+BidKart is an app based on working of the online product bidding system. This app shows data which are predefined in the database and user can also add products of their choice or sell any product. Admin is required to verify all products before going live. Each product has a specific time frame for bidding and after that highest bidder gets the product. Anyone can buy or sell the product no refrainment in that.
