@@ -1,0 +1,20 @@
+
+ysquid:S14506"[Remove the "nameTextView" field and declare it as a local variable in the relevant methods.(îï­‘8­ëğ -
+|squid:S1450>"^Remove the "firebaseStorage" field and declare it as a local variable in the relevant methods.(Â‹Ğí8¯† -
+dsquid:UselessImportCheck.":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È8‰ğÅ¡-
+Tsquid:UselessImportCheck0")Remove this unused import 'java.net.URI'.(Ö¦¨°8‰ğÅ¡-
+ysquid:S14507"\Remove the "emailTextView" field and declare it as a local variable in the relevant methods.(Ãå{8ã—ò -
+lsquid:UselessImportCheck/"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8‰ğÅ¡-
+Vsquid:S16595"8Declare "profileBackgroundImageView" on a separate line.(–±Œš8®Äœò -
+msquid:S2259Š"IA "NullPointerException" could be thrown; "userProfile" is nullable here.(™ö·¡ùÿÿÿÿ8àÉ¢ñ -
+Jsquid:S1602w",Remove useless curly braces around statement(Ø†ª8…îèñ -
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¬ªŞÿÿÿÿÿ
+{squid:S1450B"XRemove the "popWindow" field and declare it as a local variable in the relevant methods.(»ãÌ¦ıÿÿÿÿ8àÉ¢ñ -
+bsquid:HiddenFieldCheckÙ"8Rename "user" which hides the field declared at line 59.(—ÓÛ8İéáñ -
+osquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Á»¹ùúÿÿÿÿ8àÉ¢ñ -
+Lsquid:S1604à"(Make this anonymous inner class a lambda(„¬é¿øÿÿÿÿ8İéáñ -
+}squid:S1450<"_Remove the "firebaseDatabase" field and declare it as a local variable in the relevant methods.(­Õğ»8çœˆ -
+Ksquid:S1602‹",Remove useless curly braces around statement(‹¦ë¢8¿Ù¯ò -
+†squid:S1450:"cRemove the "floatingActionButton" field and declare it as a local variable in the relevant methods.(¨”†úÿÿÿÿ8ğä -
+Ksquid:S1602•",Remove useless curly braces around statement(ôİÄ¥8Œ‹ò -
+¥squid:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ÷‘Şÿÿÿÿÿ8€ØĞ´ -
