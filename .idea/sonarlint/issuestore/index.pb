@@ -217,3 +217,5 @@ Oapp/src/main/java/com/invaderx/firebasetrigger/Adapters/TransactionAdapter.java
 .app/src/main/res/layout/model_tranascation.xml,7/6/76a3263889a1a8af988791f8057ddec8753c201f
 Å
 Qapp/src/main/java/com/invaderx/firebasetrigger/Fragments/TranscationFragment.java,a/e/aedf5f0ac43fa964d9f67cfb39bdd0a401ef1322
+@
+local.properties,0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca
